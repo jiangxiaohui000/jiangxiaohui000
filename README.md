@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiangxiaohui000
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning vue3 es6 wexin-miniprogram and other programming technique
+- 🌱 I’m currently learning vue3 react ts es6 wexin-miniprogram and other programming technique
 - 📫 my email is 18363671622@163.com
 
 <!---
